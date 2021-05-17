@@ -83,6 +83,7 @@ Technicians work in laboratories, and you are no different, so if you've bought 
 | 14 | Sander Vanhove | [@SanderWaylay](https://twitter.com/SanderWaylay) | [SanderVanhove](https://github.com/SanderVanhove) | [Live preview](https://www.sandervanhove.com/plant-monitor) |
 | 15 | Sergei Vasilev | [@nblpblc](https://twitter.com/nblpblc) | [sergevas](https://github.com/sergevas) | |
 | 16 | IbooNox | [@iboonox](https://twitter.com/iboonox) | [iboonox](https://github.com/iboonox) | |
+| 17 | tom.d | [@mr_wza](https://twitter.com/mr_wza) | [t-dpz](https://github.com/t-dpz) | |
 
 ### Live preview URLs
 
